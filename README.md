@@ -1,7 +1,7 @@
 # url2png
 ### Get a screenshot of a url or many screenshots from a file contining urls.
 
-Generate a screenshot of a single url:
+Generate a screenshot of a single webpage:
 ```
 python url2png.py -u xenome.io -o outfile.png
 
